@@ -5,6 +5,8 @@ Developer
 ---------
 
 I want to build a solid career in the field of information technology, constantly improve skills through actual projects and professional working processes. With passion for technology and creative thinking, I aim to take advantage of my strengths to contribute value to the company, and achieve long -term recognition and development.
+ <img align="right" alt="Coding" width="400" src="add your link 
+  here">
 
 *   🌍  I'm based in Vietnam
 *   ✉️  You can contact me at [sondo.github@gmail.com](mailto:sondo.github@gmail.com)
