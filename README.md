@@ -1,9 +1,9 @@
 
 ![👋 Hi, my name is The Son](https://i.ibb.co/BHX3G715/21532709.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=Sondevreact&label=Profile%20views&color=0e75b6&style=flat)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is The Son
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is The Son 
+![Profile views](https://komarev.com/ghpvc/?username=Sondevreact&label=Profile%20views&color=0e75b6&style=flat)
 ===============================================================================================================================
 
 **<h3 align="center">Connect with me:</h3>** 
